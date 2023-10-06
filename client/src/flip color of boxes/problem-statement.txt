@@ -1,0 +1,4 @@
+1. I need 4 boxes with red color 
+2. whenever I click on any one of the box , 
+then the color of that clickable box should be change from red to green
+3 . if I double click on the same box , then color will be toggle (red to green , green to red)
