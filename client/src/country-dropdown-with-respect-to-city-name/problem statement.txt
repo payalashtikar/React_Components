@@ -1,0 +1,4 @@
+1. I have one dropdown of country name 
+2. If I select any country name 
+3. then it will be showing you another dropdown who has city name of that selected country name
+4. you can able to select city name 
